@@ -1,0 +1,28 @@
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.passphrase {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.passphrase-line {
+  margin-bottom: 0;
+}
+
+.link {
+  color: blue;
+}
+
+.name-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 250px;
+}
